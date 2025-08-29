@@ -44,7 +44,7 @@
     # Default: 1.0m, 45 degrees
     # Outdoor environments: 6.0-8.0m
     # Indoor environments: 2.0-3.0m
-    odom/keyframe/threshD: 6.0
+    odom/keyframe/threshD: 3.0
     odom/keyframe/threshR: 45.0
 
     odom/submap/keyframe/knn: 10
